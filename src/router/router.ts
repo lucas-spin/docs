@@ -16,7 +16,6 @@ loadDocs().finally(() => {
         children: [
           { path: "getting-started", component: BaseView },
           { path: "skills", component: BaseView },
-          { path: "testing", component: BaseView },
           { path: "components/component", component: BaseView },
           { path: "components/template", component: BaseView },
           { path: "components/lifecycle-docs", component: BaseView },
